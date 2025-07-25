@@ -1,16 +1,34 @@
-## Hi there 👋
+# 🚀 Welcome! I'm Vivek Aripalli 
 
-<!--
-**vivek6325/vivek6325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A passionate Computer Science Engineering student  
+🚀 I like building full-stack projects and solving real-world problems through code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🌱 Currently learning: **ReactJS**, **NodeJS**, **Express**, **MongoDB**
+- 🔭 Working on: Scalable web applications & JavaScript projects
+- 🧩 Interested in: Open Source, System Design & Backend Development
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/vivek-aripalli) | [Email](mailto:vivekaripalli@gmail.com)
+
+---
+
+## 🛠️ Languages and Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,mysql,py,git,github,vscode" />
+</div>
+
+---
+
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vivek-aripalli" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:vivekaripalli@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
