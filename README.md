@@ -11,7 +11,7 @@
 - 🔭 Working on: Scalable web applications & JavaScript projects
 - 🧩 Interested in: Open Source, System Design & Backend Development
 - 📫 Reach me at:[Email](mailto:vivekaripalli@gmail.com)
--   
+  
 
 ---
 
